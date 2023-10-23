@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Pasaporte_Sanitario {
+public class PasaporteSanitario {
 	private String idPasaporte;
 	private Date fechaPasaporte;
 	private boolean resultadoPCR;
